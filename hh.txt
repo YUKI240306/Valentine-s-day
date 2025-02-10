@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valentine's day</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo"><span>Valentine's day</span></div>
+        <nav>
+            <ul>
+
+            </ul>
+        </nav>
+        <button class="cart-btn">🛒</button>
+    </header>
+
+    <main>
+        <section class="product">
+            <div class="product-images">
+                <img src="tulip-main.jpg" alt="Tulip Candle Holder">
+            </div>
+            <div class="product-info">
+                <h1>Tulip</h1>
+                <p class="price">$210</p>
+                <p>Handcrafted in Portugal, this tulip candle holder is shaped to resemble three flowers and has a glazed finish.</p>
+                <button class="add-to-bag">Add to bag</button>
+                <button class="wishlist">Add to wishlist</button>
+            </div>
+        </section>
+
+        <section class="similar-products">
+            <h2>Similar Products</h2>
+            <div class="product-grid">
+                <div class="product-item">
+                    <img src="summer-vases.jpg" alt="Summer Vases">
+                    <p>Summer Vases</p>
+                </div>
+                <div class="product-item">
+                    <img src="palm-tree.jpg" alt="Palm Tree">
+                    <p>Palm Tree</p>
+                </div>
+                <div class="product-item">
+                    <img src="pink-tree.jpg" alt="Pink Tree">
+                    <p>Pink Tree</p>
+                </div>
+                <div class="product-item">
+                    <img src="eve-candle.jpg" alt="Eve Candle">
+                    <p>Eve Candle</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 I Love Pink. All rights reserved.</p>
+    </footer>
+</body>
+</html>
